@@ -5,9 +5,9 @@ function Home() {
   return (
     <>
 <h2  className='text-2xl font-bold pt-3 bg-gray-200'><span className='text-amber-400 mb-4' >Auth</span>App</h2>
-     <div className='flex flex-col justify-center items-center p-15  bg-gray-200 max-h-full '>
+     <div className='flex flex-col justify-center items-center p-15  bg-gray-200 h-screen w-screen '>
                           
-<div className=' h-full bg-indigo-400  w-110  gao-20 flex flex-col justify-center items-center rounded-2xl'></div>
+
 
 <h1 className='text-black font-bold p-6 text-4xl'> <span className='text-amber-400'>Welcome </span>to our website</h1>
 <p className='text-indigo-900 font-bold'>Lorem ipsum dolor sit amet consectetur,<span ><br />adipisicing elit. Eum deserunt ut dolor laborum exercitationem, </span> 
